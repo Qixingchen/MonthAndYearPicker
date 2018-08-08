@@ -38,7 +38,7 @@
                     android:paddingLeft="24dp"
                     android:paddingRight="24dp"
                     android:paddingTop="10dp"
-                    android:text="OK"
+                    android:text="@android:string/ok"
                     android:textStyle="bold" />
 
                 <TextView
@@ -50,7 +50,7 @@
                     android:paddingLeft="24dp"
                     android:paddingRight="24dp"
                     android:paddingTop="10dp"
-                    android:text="CANCEL"
+                    android:text="@android:string/cancel"
                     android:textStyle="bold" />
             </RelativeLayout>
 
